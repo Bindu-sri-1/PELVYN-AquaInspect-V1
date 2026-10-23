@@ -1,0 +1,6 @@
+﻿PROJECT_NAME = "PELVYN AquaInspect Mini V1"
+VERSION = "0.1.0"
+PURPOSE = "Floating water hyacinth inspection robot"
+AI_MODEL = "YOLO"
+DASHBOARD = "Streamlit"
+DETECTION_TARGET = "Water hyacinth"

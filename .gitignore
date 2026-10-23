@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.env
+runs/
+background_images/
+dataset_hyacinth_bg_v1/
+dataset_hyacinth_bg_v3/
+plant_collection/
+plant_collection_labels/
+false_positive_review/
